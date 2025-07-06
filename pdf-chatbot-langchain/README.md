@@ -8,12 +8,19 @@ Upload your PDFs, ask questions, and get instant, context-aware answers — all 
 ## 🚀 **Features**
 
 ✅ Extract text from multiple PDF files with **PyPDF2**
+
 ✅ Split text into smart, overlapping chunks with **LangChain’s `CharacterTextSplitter`**
+
 ✅ Generate embeddings using **Cohere Embeddings**
+
 ✅ Store and search vectors efficiently with **FAISS**
+
 ✅ Use **Groq’s Llama 3.1 8B Instant LLM** for fast, accurate answers
+
 ✅ Maintain conversational context with **ConversationBufferMemory**
+
 ✅ Orchestrate everything with **LangChain’s `ConversationalRetrievalChain`**
+
 ✅ Clean, interactive frontend built with **Streamlit**
 
 ---
