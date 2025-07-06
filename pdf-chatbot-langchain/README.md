@@ -92,8 +92,7 @@ streamlit run app.py
 
 ## 🌐 **Try it Online**
 
-✅ **Live Demo on Hugging Face Spaces:** \[Add your Hugging Face Space URL here]
-
+✅ **Live Demo on Hugging Face Spaces:** https://huggingface.co/spaces/freemldl/pdf-chatbot-langchain
 ---
 
 ## 📂 **Project Structure**
